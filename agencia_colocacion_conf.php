@@ -1,0 +1,6 @@
+<?php
+
+$AGENCIA_APIKEY="XX";
+$AGENCIA_APISECRET="ZZ";
+
+?>
